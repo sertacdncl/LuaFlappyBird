@@ -11,10 +11,10 @@ function love.load()
 	upcomingPipe = 1
 
 	-- background image
-	backgroundImage = love.graphics.newImage("Assets/gamebackground.jpg")
+	backgroundImage = love.graphics.newImage("assets/gamebackground.jpg")
 
 	--bird sprite
-	birdImage = love.graphics.newImage("Assets/birddrawing.png")
+	birdImage = love.graphics.newImage("assets/birddrawing.png")
 
 	-- pipe sprites
 	pipeDown = love.graphics.newImage("assets/Pipe-down.png")
